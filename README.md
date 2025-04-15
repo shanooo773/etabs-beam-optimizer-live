@@ -1,26 +1,29 @@
-ETABS Beam Optimizer Live
-⚙️ Backend Setup
-Make sure the following prerequisites are met before running the backend:
+# ETABS Beam Optimizer Live
 
-✅ ETABS is running
+## ⚙️ Backend Setup
 
-✅ Your model is open
+Make sure the following **prerequisites** are met before running the backend:
 
-✅ Beam names and loads are properly set
+- ✅ ETABS is running  
+- ✅ Your model is open  
+- ✅ Beam names and loads are properly set  
 
-📦 Run Backend
-bash
-Copy
-Edit
+### 📦 Run Backend
+
+```bash
 cd backend
 pip install -r requirements.txt
 python app.py
-💻 Frontend Setup
+```
+
+---
+
+## 💻 Frontend Setup
+
 To start the frontend:
 
-bash
-Copy
-Edit
+```bash
 cd frontend
 npm install   # Only required the first time
 npm start
+```
