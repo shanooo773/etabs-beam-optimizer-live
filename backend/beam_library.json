@@ -1,0 +1,7 @@
+[
+    {"Section": "I-150", "X": 15, "Y": 25, "MaxMoment": 60, "Cost": 50},
+    {"Section": "I-200", "X": 20, "Y": 30, "MaxMoment": 100, "Cost": 70},
+    {"Section": "I-250", "X": 25, "Y": 35, "MaxMoment": 140, "Cost": 85},
+    {"Section": "I-300", "X": 30, "Y": 40, "MaxMoment": 180, "Cost": 110}
+  ]
+  
