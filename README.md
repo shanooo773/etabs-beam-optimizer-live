@@ -40,5 +40,6 @@ To start the frontend:
 ```bash
 cd frontend
 npm install   # Run this only once
+npm install @craco/craco  # Run this only once
 npm start
 ```
