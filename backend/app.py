@@ -1,5 +1,3 @@
-# app.py
-
 from flask import Flask, jsonify
 from flask_cors import CORS
 from optimizer_etabs import run_etabs_optimizer

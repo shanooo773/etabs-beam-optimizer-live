@@ -1,7 +1,212 @@
 [
-    {"Section": "I-150", "X": 15, "Y": 25, "MaxMoment": 60, "Cost": 50},
-    {"Section": "I-200", "X": 20, "Y": 30, "MaxMoment": 100, "Cost": 70},
-    {"Section": "I-250", "X": 25, "Y": 35, "MaxMoment": 140, "Cost": 85},
-    {"Section": "I-300", "X": 30, "Y": 40, "MaxMoment": 180, "Cost": 110}
-  ]
-  
+  {
+    "Section": "IPE80",
+    "X": 7.8,
+    "Y": 4.6,
+    "MaxMoment": 5.8,
+    "Cost": 6.0
+  },
+  {
+    "Section": "IPE100",
+    "X": 10.0,
+    "Y": 5.5,
+    "MaxMoment": 9.8,
+    "Cost": 8.1
+  },
+  {
+    "Section": "IPE120",
+    "X": 12.0,
+    "Y": 6.4,
+    "MaxMoment": 15.2,
+    "Cost": 10.4
+  },
+  {
+    "Section": "IPE140",
+    "X": 14.0,
+    "Y": 7.3,
+    "MaxMoment": 22.1,
+    "Cost": 12.9
+  },
+  {
+    "Section": "IPE160",
+    "X": 16.0,
+    "Y": 8.2,
+    "MaxMoment": 31.0,
+    "Cost": 15.8
+  },
+  {
+    "Section": "IPE180",
+    "X": 18.0,
+    "Y": 9.1,
+    "MaxMoment": 41.5,
+    "Cost": 18.8
+  },
+  {
+    "Section": "IPE200",
+    "X": 20.0,
+    "Y": 10.0,
+    "MaxMoment": 55.3,
+    "Cost": 22.4
+  },
+  {
+    "Section": "IPE220",
+    "X": 22.0,
+    "Y": 11.0,
+    "MaxMoment": 71.3,
+    "Cost": 26.2
+  },
+  {
+    "Section": "IPE240",
+    "X": 24.0,
+    "Y": 12.0,
+    "MaxMoment": 91.8,
+    "Cost": 30.7
+  },
+  {
+    "Section": "IPE270",
+    "X": 27.0,
+    "Y": 13.5,
+    "MaxMoment": 121.0,
+    "Cost": 36.1
+  },
+  {
+    "Section": "IPE300",
+    "X": 30.0,
+    "Y": 15.0,
+    "MaxMoment": 157.0,
+    "Cost": 42.2
+  },
+  {
+    "Section": "IPE330",
+    "X": 33.0,
+    "Y": 16.0,
+    "MaxMoment": 201.0,
+    "Cost": 49.1
+  },
+  {
+    "Section": "IPE360",
+    "X": 36.0,
+    "Y": 17.0,
+    "MaxMoment": 254.8,
+    "Cost": 57.1
+  },
+  {
+    "Section": "IPE400",
+    "X": 40.0,
+    "Y": 18.0,
+    "MaxMoment": 326.8,
+    "Cost": 66.3
+  },
+  {
+    "Section": "IPE450",
+    "X": 45.0,
+    "Y": 19.0,
+    "MaxMoment": 375.0,
+    "Cost": 77.6
+  },
+  {
+    "Section": "W6X15",
+    "X": 15.2,
+    "Y": 15.2,
+    "MaxMoment": 44.2,
+    "Cost": 22.0
+  },
+  {
+    "Section": "W8X10",
+    "X": 20.0,
+    "Y": 10.0,
+    "MaxMoment": 36.3,
+    "Cost": 15.0
+  },
+  {
+    "Section": "W8X15",
+    "X": 20.6,
+    "Y": 10.2,
+    "MaxMoment": 55.8,
+    "Cost": 22.0
+  },
+  {
+    "Section": "W12X22",
+    "X": 31.2,
+    "Y": 10.2,
+    "MaxMoment": 120.0,
+    "Cost": 33.0
+  },
+  {
+    "Section": "W12X26",
+    "X": 31.0,
+    "Y": 16.5,
+    "MaxMoment": 152.5,
+    "Cost": 39.0
+  },
+  {
+    "Section": "W12X40",
+    "X": 30.2,
+    "Y": 20.3,
+    "MaxMoment": 233.5,
+    "Cost": 60.0
+  },
+  {
+    "Section": "W14X30",
+    "X": 35.1,
+    "Y": 17.1,
+    "MaxMoment": 193.8,
+    "Cost": 45.0
+  },
+  {
+    "Section": "W14X53",
+    "X": 35.3,
+    "Y": 20.5,
+    "MaxMoment": 356.8,
+    "Cost": 79.0
+  },
+  {
+    "Section": "W16X26",
+    "X": 39.9,
+    "Y": 14.0,
+    "MaxMoment": 181.0,
+    "Cost": 39.0
+  },
+  {
+    "Section": "W16X40",
+    "X": 40.6,
+    "Y": 17.8,
+    "MaxMoment": 299.0,
+    "Cost": 60.0
+  },
+  {
+    "Section": "W18X35",
+    "X": 45.0,
+    "Y": 15.2,
+    "MaxMoment": 272.5,
+    "Cost": 52.0
+  },
+  {
+    "Section": "W21X44",
+    "X": 52.6,
+    "Y": 16.5,
+    "MaxMoment": 390.8,
+    "Cost": 65.0
+  },
+  {
+    "Section": "W21X68",
+    "X": 53.6,
+    "Y": 21.0,
+    "MaxMoment": 655.5,
+    "Cost": 101.0
+  },
+  {
+    "Section": "W24X62",
+    "X": 60.2,
+    "Y": 17.9,
+    "MaxMoment": 626.8,
+    "Cost": 92.0
+  },
+  {
+    "Section": "W27X94",
+    "X": 68.3,
+    "Y": 25.4,
+    "MaxMoment": 1139.0,
+    "Cost": 140.0
+  }
+]
